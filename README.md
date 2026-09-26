@@ -2,11 +2,7 @@
 
 # Rasoul Rahimi
 
-**Senior Back-End Engineer** · Portugal
-
-<a href="https://www.linkedin.com/in/rasoulrahimii/" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-</a>
+**Senior Software Engineer** · Portugal
 
 </div>
 
