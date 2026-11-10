@@ -20,7 +20,7 @@ I work AI-native: I write the spec first, let coding agents handle the implement
 
 ### Open source
 
-- [PHP-Remote-Jobs](https://github.com/rasoulrahimii/PHP-Remote-Jobs) · Curated list of remote PHP jobs
+- [PHP-Remote](https://github.com/rasoulrahimii/PHP-Remote) · Curated list of remote PHP jobs
 - [ghasedak-php](https://github.com/ghasedakapi/ghasedak-php) · PHP SDK for the Ghasedak API
 - [ghasedak-laravel](https://github.com/ghasedakapi/ghasedak-laravel) · Laravel integration for the Ghasedak API
 
